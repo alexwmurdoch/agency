@@ -1,0 +1,11 @@
+
+
+article {
+  padding: 100px 0;
+
+}
+@include media-breakpoint-up(md) {
+  article {
+    padding: 150px 0;
+  }
+}

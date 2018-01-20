@@ -1,0 +1,31 @@
+{
+  "name": "agency",
+  "version": "0.7.0",
+  "homepage": "http://agency.com",
+  "authors": [
+    "Holger Koenemann <office@holgerkoenemann.de>"
+  ],
+  "description": "Agency is a Bootstrap and underscores based WordPress theme framework.",
+  "moduleType": "globals",
+  "main": [
+    "sass/theme.scss"
+  ],
+  "keywords": [
+    "bootstrap",
+    "underscores",
+    "wordpress",
+    "_s",
+    "sass"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "_source": "https://github.com/holger1411/agency.git",
+  "_target": "~0.7.0",
+  "_originalSource": "agency"
+}

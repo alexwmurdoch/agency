@@ -1,0 +1,42 @@
+{
+  "name": "agency",
+  "version": "1.0.0",
+  "description": "Travis build: [![Build Status](https://travis-ci.org/holger1411/agency.svg?branch=master)](https://travis-ci.org/holger1411/agency) | Start talking: [![Gitter](https://img.shields.io/gitter/room/holger1411/agency.svg?maxAge=2592000?style=flat-square)](https://gitter.im/holger1411/agency)",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "animate.css": "^3.5.2",
+    "browser-sync": "^2.23.5",
+    "del": "^3.0.0",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-clone": "^1.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-ignore": "^2.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
+    "gulp-merge": "^0.1.1",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.3",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^5.0.0",
+    "jshint": "^2.9.5",
+    "merge2": "^1.2.1",
+    "popper.js": "^1.12.9",
+    "run-sequence": "^2.2.1",
+    "undescores-for-npm": "^1.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}

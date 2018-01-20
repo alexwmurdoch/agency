@@ -1,0 +1,27 @@
+
+
+npm install gulp --save-dev
+npm install gulp-sass --save-dev
+npm install browser-sync --save-dev
+npm install del --save-dev
+npm install gulp-sourcemaps --save-dev
+npm install gulp-clean-css --save-dev
+npm install font-awesome --save-dev
+npm install gulp-clone --save-dev
+npm install gulp-concat --save-dev
+npm install gulp-cssnano --save-dev
+npm install gulp-ignore --save-dev
+npm install gulp-imagemin --save-dev
+npm install gulp-merge --save-dev
+npm install gulp-plumber --save-dev
+npm install gulp-rename --save-dev
+npm install gulp-rimraf --save-dev
+npm install gulp-sequence --save-dev
+npm install gulp-uglify --save-dev
+npm install gulp-watch --save-dev
+npm install merge2 --save-dev
+npm install popper.js --save-dev
+npm install run-sequence --save-dev
+npm install undescores-for-npm --save-dev
+npm install bootstrap --save-dev
+npm install jshint gulp-jshint --save-dev
